@@ -1,2 +1,2 @@
-# coronatrac
+# CoronaTrac
 This is stats tracker for Corona virus
