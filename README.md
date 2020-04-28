@@ -20,6 +20,11 @@ You can see all requirements in <code>install.sh</code>
 
 <code>python coronatrac.py</code>
 
+## Video Demo
+[Click here to watch vedio](https://asciinema.org/a/IaeuFwSqwQUyGDzexE8wED7oS)
+
+
+
 
 
 
